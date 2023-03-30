@@ -1,1 +1,1 @@
-# disablepageleavedetectsystem
+# Disable page leave detection system
